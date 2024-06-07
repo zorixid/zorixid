@@ -13,7 +13,3 @@ Hello! I'm a passionate and experienced Blockchain & Full Stack Developer. This 
 - **🌐 Back-End Development:** Node.js, Express, Python, Django
 - **🗄️ Database Management:** MySQL, PostgreSQL, MongoDB
 - **⚙️ DevOps:** Docker, Kubernetes, CI/CD pipelines
-
-### 📜 License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
